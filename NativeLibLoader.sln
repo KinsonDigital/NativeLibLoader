@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeLibLoader", "NativeLibLoader\NativeLibLoader.csproj", "{DE5D062B-1386-4CF2-99C3-C772EC697815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug(Linux)|x64 = Debug(Linux)|x64
+		Debug(Win)|x64 = Debug(Win)|x64
+		Release(Linux)|x64 = Release(Linux)|x64
+		Release(Win)|x64 = Release(Win)|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE5D062B-1386-4CF2-99C3-C772EC697815}.Debug(Linux)|x64.ActiveCfg = Debug(Linux)|x64
+		{DE5D062B-1386-4CF2-99C3-C772EC697815}.Debug(Linux)|x64.Build.0 = Debug(Linux)|x64
+		{DE5D062B-1386-4CF2-99C3-C772EC697815}.Debug(Win)|x64.ActiveCfg = Debug(Win)|x64
+		{DE5D062B-1386-4CF2-99C3-C772EC697815}.Debug(Win)|x64.Build.0 = Debug(Win)|x64
+		{DE5D062B-1386-4CF2-99C3-C772EC697815}.Release(Linux)|x64.ActiveCfg = Release(Linux)|x64
+		{DE5D062B-1386-4CF2-99C3-C772EC697815}.Release(Linux)|x64.Build.0 = Release(Linux)|x64
+		{DE5D062B-1386-4CF2-99C3-C772EC697815}.Release(Win)|x64.ActiveCfg = Release(Win)|x64
+		{DE5D062B-1386-4CF2-99C3-C772EC697815}.Release(Win)|x64.Build.0 = Release(Win)|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02A3A342-55F3-4EE0-B84D-6BF51E9DFFA5}
+	EndGlobalSection
+EndGlobal
